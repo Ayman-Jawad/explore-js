@@ -6,8 +6,13 @@ var age = 67;
 var goku = 12;
 var ssd = 2;
 
-//variable
-
+//Variable
 var person = "mota manush";
 var fav = "hanna montana";
 var location = "bondor mosque, ctg";
+
+//Boolean
+var serious = "false";
+var isSingle = "false";
+var isTopper = "true";
+var isHappy = "true";
